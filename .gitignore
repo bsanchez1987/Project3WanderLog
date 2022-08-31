@@ -1,1 +1,7 @@
-node_modules/
+node_modules
+.env
+.DS_Store
+Design
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
